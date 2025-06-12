@@ -1,7 +1,6 @@
 # MCP-SIM (Memory-Coordinated Physics-Aware Simulation)
 Donggeun Park<sup>a</sup>, Hyunbin Moon<sup>a</sup>, and Seunghwa Ryu<sup>a</sup><sup>*</sup>
-<font size="1">이 부분의 글자 크기가 줄어듭니다.</font>
-<sup>a</sup> Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon 34141, Republic of Korea
+<sup>a</sup> Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
 
 ![License](https://img.shields.io/badge/license-MIT-green) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15645333.svg)](https://doi.org/10.5281/zenodo.15645333)
 ## Code Overview
