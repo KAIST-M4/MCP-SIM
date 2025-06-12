@@ -1,5 +1,5 @@
 # MCP-SIM (Memory-Coordinated Physics-Aware Simulation)
-Donggeun Park<sup>a</sup>, Hyunbin Moon<sup>a</sup>, and Seunghwa Ryu<sup>a</sup><sup>*</sup>
+**Donggeun Park<sup>a</sup>**, Hyunbin Moon<sup>a</sup>, and Seunghwa Ryu<sup>a</sup><sup>*</sup>
 
 <sup>a</sup> Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
 
