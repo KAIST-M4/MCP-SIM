@@ -1,5 +1,5 @@
 # MCP-SIM (Memory-Coordinated Physics-Aware Simulation)
-Donggeun Park^a^, Hyunbin Moon^a^, and Seunghwa Ryu^a^
+Donggeun Park<sup>a</sup>, Hyunbin Moon<sup>a</sup>, and Seunghwa Ryu<sup>a</sup>
 
 ![License](https://img.shields.io/badge/license-MIT-green) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15645333.svg)](https://doi.org/10.5281/zenodo.15645333)
 ## Code Overview
